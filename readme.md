@@ -1,5 +1,5 @@
 # **Hi👋 I'm Agustina Scarpinelli**
-### ** I'm an enthusiastic frontend developer**
+### **I'm an enthusiastic frontend developer**
 ### ⚡Knowledge:
 * HTML-CSS-SCSS-BOOSTRAP
 * JAVASCRIPT
